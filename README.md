@@ -7,5 +7,6 @@ https://github.com/nsengupta/Akka-Training-Elem
 https://www.youtube.com/watch?v=r4dryMdDZz0  (OR) https://github.com/johanandren/akka-actor-java8-webinar
 https://developer.lightbend.com/guides/akka-sample-cluster-java/
 https://www.java-success.com/01-simple-akka-tutorial-java-step-step/
+https://github.com/ferhtaydn/akka-http-java-client
 
 Youtube: https://www.youtube.com/watch?v=fALUf9BmqYE (Spring +akka in Scala)
